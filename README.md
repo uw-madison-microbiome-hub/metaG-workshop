@@ -5,10 +5,10 @@ Main repo for working on the Metagenome workshop
 
 | Day 1| Day 2| Day 3  |
 |:---------|:------|:------|
-| Intro to CHTC | Metagenomic Assembly | Comparative Genomics |
-| Filtering/Wrangling metagenomic data | Binning | Comparative Genomics cont. |
+| Intro to CHTC | Metagenomic Assembly | [Comparative Genomics](https://uw-madison-microbiome-hub.github.io/metaG-comp-genomics/) [ [repo](https://github.com/uw-madison-microbiome-hub/metaG-comp-genomics) ] |
+| [Filtering/Wrangling metagenomic data](https://uw-madison-microbiome-hub.github.io/metaG-wrangling/) [ [repo](https://github.com/uw-madison-microbiome-hub/metaG-wrangling) ]| [Binning](https://uw-madison-microbiome-hub.github.io/metaG-bin-analysis/) [ [repo](https://github.com/uw-madison-microbiome-hub/metaG-bin-analysis) ] | Comparative Genomics cont. |
 | LUNCH | LUNCH | LUNCH |
-| Mapping to reference databases | QC Bins and Refine | Other analyses with Bins |
+| [Mapping to reference databases](https://uw-madison-microbiome-hub.github.io/metaG-ref-analysis/) [ [repo](https://github.com/uw-madison-microbiome-hub/metaG-ref-analysis) ] | QC Bins and Refine | Other analyses with Bins |
 | Phylogenetic and functional analysis | Binning Best Practices | Freetime and Discussion | 
 
 ## Learning Objectives 
