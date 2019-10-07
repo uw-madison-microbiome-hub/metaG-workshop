@@ -12,6 +12,8 @@ Main repo for working on the Metagenome workshop
 | Phylogenetic and functional analysis | Binning Best Practices | Freetime and Discussion | 
 
 
+----------
+
 | Day 1 Version| 
 |:---------| 
 | Intro to Cyverse | 
