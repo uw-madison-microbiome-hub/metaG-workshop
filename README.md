@@ -12,17 +12,6 @@ Main repo for working on the Metagenome workshop
 | Phylogenetic and functional analysis | Binning Best Practices | Freetime and Discussion | 
 
 
-----------
-
-| Day 1 Version| 
-|:---------| 
-| Intro to Cyverse | 
-| [Filtering/Wrangling metagenomic data](https://uw-madison-microbiome-hub.github.io/metaG-wrangling/) [ [repo](https://github.com/uw-madison-microbiome-hub/metaG-wrangling) ]|
-| LUNCH | 
-| [Mapping to reference databases](https://uw-madison-microbiome-hub.github.io/metaG-ref-analysis/) [ [repo](https://github.com/uw-madison-microbiome-hub/metaG-ref-analysis) ] | 
-| Phylogenetic and functional analysis | 
-
-
 
 ## Learning Objectives 
 
